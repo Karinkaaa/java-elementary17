@@ -1,0 +1,20 @@
+<userInfo>
+    <user>
+        <name>UserName</name>
+        <age>16</age>
+        <address>
+            <city>Dnipro</city>
+            <country>Ukraine</country>
+            <info postalCode="49009"/>
+        </address>
+    </user>
+    <user>
+        <name>UserName22222</name>
+        <age>16</age>
+        <address>
+            <city>Dnipro</city>
+            <country>Ukraine</country>
+            <info postalCode="49009"/>
+        </address>
+    </user>
+</userInfo>
